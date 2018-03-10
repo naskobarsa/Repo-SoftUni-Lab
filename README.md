@@ -1,2 +1,6 @@
-# Repo-SoftUni-Lab
-Lab Softare Tecnologies
+Az sam Gosho ot Pochivka i idvam ot Varna.
+
+Updating with GitBash
+Update with Tortoise
+
+fetch try
